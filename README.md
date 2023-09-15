@@ -42,7 +42,7 @@ To set up and run the Backend, follow these steps:
 1. Navigate to the "Final Project- Server" folder in your terminal.
 2. Run npm install to install the required server-side dependencies.
 3. To run the Node.js server, use one of the following commands:
-   * Production environment: npm sart
+   * Production environment: npm start
    * Development environment (with automatic code reloading): npm run dev
      
 The server will start running and listen for incoming requests on the specified port. Access the server by opening a web browser and navigating to http://localhost:PORT, where PORT is the configured port number. 
