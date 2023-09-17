@@ -1,0 +1,80 @@
+[
+  {
+    "item": "Bikes",
+    "company": "KTM",
+    "price": 15800,
+    "size": "M",
+    "location": "Ashdod",
+    "contactName": "Ohad",
+    "phone": "0503333333",
+    "image": {
+      "url": "http://localhost:8181/initialData/imgs/bike-2-1.jpg",
+      "alt": "bike"
+    }
+  },
+  {
+    "item": "Bikes",
+    "company": "Stumpjumper",
+    "price": 9500,
+    "size": "S2",
+    "location": "Pardes Hana",
+    "contactName": "Guy",
+    "phone": "0501111111",
+    "image": {
+      "url": "http://localhost:8181/initialData/imgs/bike-1.jpg",
+      "alt": "bike"
+    }
+  },
+  {
+    "item": "Shoes",
+    "company": "Lake",
+    "price": 300,
+    "size": "44",
+    "location": "Modeen",
+    "contactName": "Tal",
+    "phone": "0502222222",
+    "image": {
+      "url": "http://localhost:8181/initialData/imgs/shoes-1.jpg",
+      "alt": "shoes"
+    }
+  },
+  {
+    "item": "Shoes",
+    "company": "Greg Minnaar",
+    "price": 150,
+    "size": "41.5",
+    "location": "Gedera or Hertzelia",
+    "contactName": "Tal",
+    "phone": "0505555555",
+    "image": {
+      "url": "http://localhost:8181/initialData/imgs/shoes-2-2.jpg",
+      "alt": "shoes"
+    }
+  },
+  {
+    "item": "Gloves",
+    "company": "Leatt",
+    "price": 80,
+    "size": "M",
+    "location": "Petah Tikva",
+    "contactName": "Nimrod",
+    "phone": "0507777777",
+    "image": {
+      "url": "http://localhost:8181/initialData/imgs/gloves-1-1.jpg",
+      "alt": "gloves"
+    }
+  },
+  {
+    "item": "Gloves",
+    "company": "G-Form Sorata",
+    "price": 100,
+    "size": "L",
+    "location": "Petah Tikva",
+    "contactName": "Nimrod",
+    "phone": "0506666666",
+    "image": {
+      "url": "http://localhost:8181/initialData/imgs/gloves-2-1.jpg",
+      "alt": "gloves"
+    }
+  }
+]

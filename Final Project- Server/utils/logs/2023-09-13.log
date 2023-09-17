@@ -1,0 +1,9 @@
+13/Sep/2023:13:12:30 +0000 PATCH /api/users/64fff4b48cdc579986d19f64 500 60.235 ms
+13/Sep/2023:13:12:32 +0000 PATCH /api/users/64fff4b48cdc579986d19f64 500 13.804 ms
+13/Sep/2023:13:12:34 +0000 PATCH /api/users/64fff4b48cdc579986d19f64 500 12.872 ms
+13/Sep/2023:13:14:00 +0000 PATCH /api/users/64fff4b48cdc579986d19f64 500 11.904 ms
+13/Sep/2023:13:28:03 +0000 PATCH /api/users/64fff4b48cdc579986d19f64 500 18.878 ms
+13/Sep/2023:14:51:55 +0000 POST /api/users/login 400 8.367 ms
+13/Sep/2023:14:52:06 +0000 POST /api/users/login 400 5.376 ms
+13/Sep/2023:14:52:18 +0000 POST /api/users/login 400 4.759 ms
+14/Sep/2023:06:16:07 +0000 POST /api/users/login 400 4.750 ms

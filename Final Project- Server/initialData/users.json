@@ -1,0 +1,56 @@
+[
+  {
+    "name": {
+      "firstName": "Richard",
+      "lastName": "Gere"
+    },
+    "phone": "0500000000",
+    "email": "richard@gmail.com",
+    "password": "Aa123456!",
+    "address": {
+      "country": "USA",
+      "city": "New York",
+      "street": "nof ha hof",
+      "houseNumber": 255
+    },
+    "image": {
+      "url":"https://cdn.pixabay.com/photo/2014/04/02/14/11/male-306408_640.png",
+      "alt":"profile image"
+    }
+  },
+  {
+    "name": {
+      "firstName": "Julia",
+      "lastName": "Roberts"
+    },
+    "phone": "0500000000",
+    "email": "julia@gmail.com",
+    "password": "Aa123456!",
+    "address": {
+      "country": "USA",
+      "city": "San Francisco",
+      "street": "nof ha hof",
+      "houseNumber": 255
+    },
+    "image": {
+      "url":"https://cdn.pixabay.com/photo/2014/04/02/14/10/female-306407_640.png",
+      "alt":"profile image"
+    }
+  },
+  {
+    "name": {
+      "firstName": "kenny",
+      "lastName": "mc"
+    },
+    "phone": "0500000000",
+    "email": "kenny@gmail.com",
+    "password": "Aa123456!",
+    "address": {
+      "country": "Israel",
+      "city": "Ashkeluna",
+      "street": "nof ha hof",
+      "houseNumber": 255
+    },
+    "isAdmin": true
+  }
+]
